@@ -9,7 +9,7 @@ Assalamu Alaikum. I'm Moursalin islam professional Web Developer and WordPress P
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Mosques of Bangladesh](http://https://mosquesofbangladesh.xyz/)
 * ✉️  You can contact me at [morsalinislam.net@gmail.com](mailto:morsalinislam.net@gmail.com)
-* 🚀  I'm currently working on [OnexusDev](http://https://mosquesofbangladesh.xyz/)
+* 🚀  I'm currently working on [OnexusDev](https://onexusdev.xyz/)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Plugin Developement with Custom Code
 
